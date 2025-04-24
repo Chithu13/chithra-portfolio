@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/projecta.png",
+    "description": "This is a project for full stack company website.",
+    "skills": ["React", "Express", "MongoDB", "Docker"],
+    "source": "https://github.com/Chithu13/Sample-digital-web"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/projectb.png",
+    "description": "This is a frontend project for education website.",
+    "skills": ["React", "Node", "Docker"],
+    "source": "https://github.com/Chithu13/eduction_saas_app_test"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/projectc.png",
+    "description": "This is a frontend project for IT websites.",
+    "skills": ["React", "Docker", "Node"],
+    "source": "https://github.com/Chithu13/edw_saas_app_test/"
+  }
+]

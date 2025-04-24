@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Angular with Python Trainer",
+    "organisation": "FITA Academy",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": ["Develop training materials and presentation", "Deliver software training to users and provide ongoing technical support"],
+    "imageSrc": "history/fita.png"
+  },
+  {
+    "role": "Full Stack Web Developer",
+    "organisation": "MS-Infotech",
+    "startDate": "Jan, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": ["Designed and Develop Dashboard using Reactjs and Bootstrap",
+                    "Worked as team for both frontend and backend projects"],
+    "imageSrc": "history/msinfo.png"
+  },
+  {
+    "role": "Ecommerce Assistant",
+    "organisation": "Content Group Technology",
+    "startDate": "Mar, 2020",
+    "endDate": "Jun, 2022",
+    "experiences": [
+      "Create content for online listings utilizing keywords for SEO",
+      "Implement the marketing strategies and campaigns organized by the department"],
+    "imageSrc": "history/contentgroup.png"
+  },
+  {
+    "role": "Creative Auditor",
+    "organisation": "Paragon Digital Services",
+    "startDate": "Aug, 2017",
+    "endDate": "Dec, 2020",
+    "experiences": [
+      "Do final stage of publishing ads via creative auditing process",
+      "Check all the parameters used in ads and then gave approve or reject"
+    ],
+    "imageSrc": "history/paragon.png"
+  }
+]
